@@ -45,5 +45,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <input type="date" name="birthdate" required><br><br>
     <input type="submit" value="Hinzufügen">
 </form>
-<p><a href="index.php">Zurück zur Patientenliste</a></p> 
+<p><a href="patients.php">Zurück zur Patientenliste</a></p> 
 </body>
